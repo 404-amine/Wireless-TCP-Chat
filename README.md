@@ -6,7 +6,7 @@ This project demonstrates a basic server-client communication setup using socket
 
 - **Server**: Listens for incoming client connections and displays received messages.
 - **Client**: Connects to the server and sends messages.
-
+ currently working on implementing End-to-End Encryption (E2EE) for more security 
 ## Requirements
 
 - GCC compiler (or any C compiler that supports POSIX sockets)
